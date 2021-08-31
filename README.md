@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3>
+Hi there, I'm <a href="https://www.mjulius.dev/" target="_blank" rel="noreferrer">M. Julius</a> 👋
+</h3>
 
-<!--
-**M-Julius/M-Julius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+I'm a Mobile App Developer 💻!
+</h2> 
 
-Here are some ideas to get you started:
+## 💼 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=flat&logo)
+</br>
+
+## 📈 GitHub Stats 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M-Julius)](https://github.com/M-Julius)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Julius&layout=compact)](https://github.com/M-Julius)
