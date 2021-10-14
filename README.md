@@ -19,6 +19,6 @@ I'm a Mobile App Developer 💻!
 ## 📈 GitHub Stats 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M-Julius)](https://github.com/M-Julius)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M-Julius&count_private=true)](https://github.com/M-Julius)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Julius&layout=compact)](https://github.com/M-Julius)
