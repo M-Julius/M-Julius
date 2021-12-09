@@ -16,6 +16,8 @@ I'm a Mobile App Developer 💻!
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat&logo)
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![](https://img.shields.io/badge/Expo-20232A?style=flat&logo=expo)
+![](https://img.shields.io/badge/Typescript-20232A?style=flat&logo=typescript)
 </br>
 
 ## 📈 GitHub Stats 
