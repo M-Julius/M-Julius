@@ -14,6 +14,3 @@ I'm a Mobile Developer 💻!
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&color=20232A)
 ![](https://img.shields.io/badge/Typescript-20232A?style=flat&logo=typescript)
 
-### 📈 GitHub Stats 
-[![M.Julius github stats](https://github-readme-stats.vercel.app/api?username=M-Julius&count_private=true)](https://github.com/M-Julius)
-
